@@ -27,7 +27,7 @@ Aplikasi web berbasis PHP untuk mendeteksi website phishing menggunakan berbagai
 
 1. Clone repositori ini ke direktori web server Anda:
    ```
-   git clone https://github.com/username/phishing-detector.git
+   git clone https://github.com/arjunaayasa/sicek
    ```
 
 2. Buat database MySQL baru untuk aplikasi.
